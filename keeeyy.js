@@ -3,7 +3,7 @@ function login() {
           var username = document.getElementById("username").value;
           var password = document.getElementById("password").value;
         
-          if (username === "Sh4Ko" && password === "api-VIP-@SH4ko1") {
+          if (username === "Sh4Ko" && password === "api-VIP-@SH4ko") {
             // Lưu tên đăng nhập và mật khẩu vào Local Storage
            // localStorage.setItem("username", username);
            //
